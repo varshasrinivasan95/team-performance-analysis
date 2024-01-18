@@ -33,12 +33,12 @@ LICENSE: Details about the license under which this repository is shared.
 - Open and run the each line of code in sequential order in either Jupyter notebook or Google Colab
 
 ## Dependencies
-Python 3.x
-Pandas
-Matplotlib
-Seaborn
-IPython
-Jupyter Notebooks/Google Colab
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+- IPython
+- Jupyter Notebooks/Google Colab
 
 ## License
 MIT License
