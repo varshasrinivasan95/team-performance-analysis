@@ -28,6 +28,7 @@ LICENSE: Details about the license under which this repository is shared.
 
 ## How to Use
 - Clone the repository to your local machine
+  - https://github.com/varshasrinivasan95/team-performance-analysis-project.git
 - Navigate to the Code directory
 - Open and run the each line of code in sequential order in either Jupyter notebook or Google Colab
 
